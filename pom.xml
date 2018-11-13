@@ -6,6 +6,7 @@
 
   <groupId>java-pro</groupId>
   <artifactId>hello</artifactId>
+  <version>1.0</version>
   <packaging>war</packaging>
 
   <name>test1</name>
